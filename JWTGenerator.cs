@@ -10,7 +10,7 @@ using System.Text.Json;
 using System.Threading.Tasks;
 using Microsoft.IdentityModel.Tokens;
 
-namespace Library
+namespace TestConjurAuthnAPIKey
 {
     public class JWTGenerator
     {
